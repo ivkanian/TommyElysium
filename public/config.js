@@ -8,7 +8,7 @@ window.TOMMY_CONFIG = {
   ticker: "$TOMMY",
   contract: "0x04CCECf9f3F96C5512cae593Eb8316B779d96CFf",
   buyUrl: "",
-  xUrl: "",
+  xUrl: "https://x.com/TommyAscend",
   telegramUrl: "",
   siteUrl: "",
 };
