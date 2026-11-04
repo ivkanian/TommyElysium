@@ -6,7 +6,7 @@
 window.TOMMY_CONFIG = {
   name: "Tommy",
   ticker: "$TOMMY",
-  contract: "",
+  contract: "0x04CCECf9f3F96C5512cae593Eb8316B779d96CFf",
   buyUrl: "",
   xUrl: "",
   telegramUrl: "",
